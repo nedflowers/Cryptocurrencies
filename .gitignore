@@ -125,5 +125,9 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+# Files
+Module_Work/
+ipynb_checkpoints
+
 # Pyre type checker
 .pyre/
